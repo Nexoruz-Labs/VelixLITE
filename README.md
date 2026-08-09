@@ -28,7 +28,7 @@ Grab the latest release from the [Releases](https://github.com/Nexoruz-Labs/Veli
   - 🥔🥔 **Potato++** — faster startup for 8+ GB systems
   - 👑 **God Potato** — maximum optimizations (ZGC, most RAM, high priority)
 - **Manual tuning** — Override RAM or add your own JVM arguments anytime.
-- **Smart Java** — Finds your installed Java automatically, and can install a runtime if you don't have one.
+- **Smart Java** — Finds your installed Java automatically.
 - **Display options** — Windowed, fullscreen or borderless, plus an optional "force resolution" mode that switches your desktop resolution for the session and restores it when you quit.
 - **Live console** — Watch every step in a color-coded log, with sensitive data redacted and a **Report Issue** button if something goes wrong.
 
